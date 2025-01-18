@@ -1,1 +1,3 @@
+COMPANY : CODETECH NAME : VEGASH KUMAR M INTERN ID : CT08HZA DOMAIN : PYTHON PROGRAMMING INTERNSHIP BATCH DURATION : 1st January 2025 to 30th January 2025 
+output
 ![Image](https://github.com/user-attachments/assets/248a252b-3827-4f95-bfe1-7687d3b7ab93)
